@@ -1,0 +1,94 @@
+#body1{
+background-color: ghostwhite
+}
+  #discount{
+    background-color: Black;
+    color: ghostwhite;
+    padding: 10px
+  }
+  #menubar
+    {
+      background-color: black;
+      border-radius: 70px;
+      
+    }
+    #menubar ul{
+      overflow:auto
+    }
+  #menubar li{
+    
+   float: left;
+    list-style: none;
+    
+    margin: 5px 5px;
+    
+  }
+  #menubar a
+  {
+    padding: 11px 30px;
+    text-decoration: none;
+    color: white
+  }
+  
+ #box input{
+   background-color: cyan;
+   padding:3px  7px;
+   border-radius: 600px;
+ }
+  #dsc{
+    text-align: ceneter;
+    color: black
+  }
+  #bu1{
+    background-color: ghostwhite;
+    color: black;
+    
+    border-radius: 10px;
+    padding: 10px
+  }
+  #category li{
+    float: left;
+  }
+  #card{
+    width:20%;
+    background-color: navajowhite;
+    border-radius: 10px;
+    margin: 20px;
+    float: left;
+  }
+  #image img{
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  #title{
+    text-align: center;
+  }
+  #description{
+    text-align: center;
+  }
+  #sep{
+    background-color: white;
+  }
+  #abou{
+    
+    background-color: white;
+    color: white;
+  }
+  
+  #img_abt{
+    float: right;
+    margin: 20px;
+    border-radius: 30px;
+    border-color: red;
+    padding: 2px 2px
+    
+  }
+  #about p{
+    margin: 20px;
+    background-color: black;
+    color:white;
+  }
+  #about{
+    border-radius: 20px;
+ 
